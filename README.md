@@ -41,6 +41,7 @@ Selected files are processed locally with bundled FFmpeg. No account, cloud uplo
 |---------|------|
 | **Bug reports & questions** | [Open an Issue](https://github.com/boscorecording/ResizeMan-support/issues/new/choose) |
 | **Email** | [boscorecording@gmail.com](mailto:boscorecording@gmail.com) |
+| **Privacy Policy** | [PRIVACY.md](PRIVACY.md) |
 
 When reporting a bug, please include:
 
