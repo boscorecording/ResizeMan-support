@@ -25,6 +25,22 @@ Selected files are processed locally with bundled FFmpeg. No account, cloud uplo
 
 ---
 
+## Screenshots
+
+### Resize Video
+
+| Light · English | Dark · English |
+|:---:|:---:|
+| ![Resize Video — Light, English](screenshots/resize-video-light-en.png) | ![Resize Video — Dark, English](screenshots/resize-video-dark-en.png) |
+
+### Make GIF
+
+| Dark · Korean | Dark · English |
+|:---:|:---:|
+| ![Make GIF — Dark, Korean](screenshots/make-gif-dark-ko.png) | ![Make GIF — Dark, English](screenshots/make-gif-dark-en.png) |
+
+---
+
 ## Get help
 
 | Channel | Link |
@@ -66,6 +82,10 @@ When reporting a bug, please include:
 **이메일:** boscorecording@gmail.com
 
 버그 제보 시 macOS 버전, 앱 버전, Mac 기종(Apple Silicon/Intel), 입력 파일 형식, 재현 방법을 알려주시면 빠르게 확인할 수 있습니다.
+
+### 스크린샷
+
+위 **Screenshots** 섹션 참고 — 비디오 리사이즈·GIF 만들기, 라이트/다크 테마, 한국어·English UI.
 
 ---
 
