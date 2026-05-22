@@ -29,7 +29,7 @@ Selected files are processed locally with bundled FFmpeg. No account, cloud uplo
 
 ### Resize Video
 
-| Light · English | Dark · English |
+| Light · English | Light · English |
 |:---:|:---:|
 | ![Resize Video — Light, English](screenshots/resize-video-light-en.png) | ![Resize Video — Dark, English](screenshots/resize-video-dark-en.png) |
 
