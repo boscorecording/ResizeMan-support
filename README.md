@@ -27,17 +27,11 @@ Selected files are processed locally with bundled FFmpeg. No account, cloud uplo
 
 ## Screenshots
 
-### Resize Video
+### Resize Video | Make GIF
 
 | Light · English | Light · English |
 |:---:|:---:|
-| ![Resize Video — Light, English](screenshots/resize-video-light-en.png) | ![Resize Video — Dark, English](screenshots/resize-video-dark-en.png) |
-
-### Make GIF
-
-| Dark · Korean | Dark · English |
-|:---:|:---:|
-| ![Make GIF — Dark, Korean](screenshots/make-gif-dark-ko.png) | ![Make GIF — Dark, English](screenshots/make-gif-dark-en.png) |
+| ![Resize Video — Light, English](screenshots/resize-video-light-en.png) | ![Make GIF — Light, English](screenshots/resize-video-dark-en.png) |
 
 ---
 
